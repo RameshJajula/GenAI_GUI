@@ -41,7 +41,9 @@ To run this application locally, you will need:
    - Enter your Google API key in the sidebar text input labeled "Enter your GOOGLE_API_KEY here".
    - Choose between 'TextWise' and 'VisionWise' models in the sidebar.
      - For 'TextWise', enter a text prompt and click "Submit" for content generation.
+     - ![Alt text](images/SS_1.png)
      - For 'VisionWise', upload an image, enter a prompt, and click "Submit" to see generated results.
+     -  ![Alt text](images/SS_2.png)
 
 ## License
 MIT
